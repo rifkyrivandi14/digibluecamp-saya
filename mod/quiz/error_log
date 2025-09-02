@@ -1,0 +1,7 @@
+[27-Apr-2025 10:15:25 America/New_York] Database transaction aborted automatically in /home/digiblue/public_html/mod/quiz/processattempt.php
+[27-Apr-2025 11:54:44 America/New_York] Cannot find session record s7p4rdsol0nf1ffdsq9lm3k63b for user 2, creating new session.
+[30-Apr-2025 09:07:23 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[30-Apr-2025 09:07:23 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[27-Jun-2025 22:08:46 America/New_York] Database transaction aborted automatically in /home/digiblue/public_html/mod/quiz/processattempt.php
+[29-Jun-2025 01:03:41 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[03-Jul-2025 10:10:09 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database

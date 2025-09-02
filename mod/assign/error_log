@@ -1,0 +1,24 @@
+[04-Mar-2025 07:31:08 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[13-Mar-2025 22:48:45 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Mar-2025 03:17:55 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[17-Mar-2025 03:17:55 America/New_York] Potential coding error - active database transaction detected during request shutdown:
+* line 261 of /lib/dml/moodle_read_slave_trait.php: call to moodle_database->start_delegated_transaction()
+* line 3810 of /mod/assign/locallib.php: call to mysqli_native_moodle_database->start_delegated_transaction()
+* line 3901 of /mod/assign/locallib.php: call to assign->get_user_submission()
+* line 9310 of /mod/assign/locallib.php: call to assign->get_user_grade()
+* line 5343 of /mod/assign/locallib.php: call to assign->get_grading_status()
+* line 5537 of /mod/assign/locallib.php: call to assign->get_assign_submission_status_renderable()
+* line 5909 of /mod/assign/locallib.php: call to assign->view_student_summary()
+* line 696 of /mod/assign/locallib.php: call to assign->view_submission_page()
+* line 55 of /mod/assign/view.php: call to assign->view()
+
+[25-Apr-2025 13:29:38 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-May-2025 04:09:05 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[05-May-2025 08:07:30 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[26-May-2025 13:21:51 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[04-Jun-2025 04:04:57 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[09-Jun-2025 06:22:59 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[09-Jun-2025 06:22:59 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[02-Jul-2025 09:23:59 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[02-Jul-2025 22:07:08 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[06-Jul-2025 06:45:07 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database

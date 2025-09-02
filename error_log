@@ -1,0 +1,69 @@
+[11-Jun-2024 07:19:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/digiblue/public_html/check_utf8.php:34
+Stack trace:
+#0 /home/digiblue/public_html/check_utf8.php(34): mysqli_connect()
+#1 /home/digiblue/public_html/check_utf8.php(108): get_dbtype()
+#2 /home/digiblue/public_html/check_utf8.php(178): is_antelope_file_format_no_more_supported()
+#3 /home/digiblue/public_html/check_utf8.php(14): is_large_prefix_enabled()
+#4 /home/digiblue/public_html/check_utf8.php(230): serverClaimsUtf8mb4Support()
+#5 {main}
+  thrown in /home/digiblue/public_html/check_utf8.php on line 34
+[11-Jun-2024 07:19:24 UTC] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home/digiblue/public_html/update_pass.php on line 17
+[11-Jun-2024 07:50:21 UTC] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home/digiblue/public_html/update_pass.php on line 17
+[11-Jun-2024 04:04:56 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Jun-2024 08:15:42 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:42 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:43 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:43 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:45 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:45 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:46 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:15:46 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:05 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:05 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:07 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:07 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:33 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:17:33 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 08:25:34 UTC] PHP Warning:  Constant PASSWORD_DEFAULT already defined in /home/digiblue/public_html/update_pass.php on line 17
+[11-Jun-2024 05:09:06 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:10 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:11 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:13 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:13 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:14 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:15 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 09:09:15 UTC] PHP Warning:  Undefined property: stdClass::$debugdisplay in /home/digiblue/public_html/lib/setuplib.php on line 366
+[11-Jun-2024 05:09:19 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Error reading from database
